@@ -9,7 +9,7 @@ This CRM includes essential modules: Users, Roles, Products, Leads, Clients, Dea
 
 ### 1. User & Role Management
 - [ ] User login/logout  
-- [ ] Roles: Admin, Salesperson  
+- [ ] Roles: Admin, Salesperson, Sales Manager  
 - [ ] Admin manages all modules  
 - [ ] Salesperson sees only their own leads & deals  
 - [ ] User CRUD (Admin only)  
